@@ -1,0 +1,36 @@
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmExDetails.resources
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.Resources.resources
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.vbproj.GenerateResource.Cache
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmLogin.resources
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmRegister.resources
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmMeeting.resources
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmMain.resources
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmVenu.resources
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.exe
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.xml
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.pdb
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\bin\Debug\prjMeetingMaker.exe
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\bin\Debug\prjMeetingMaker.pdb
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\bin\Debug\prjMeetingMaker.xml
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmExDetails.resources
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmLogin.resources
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmMain.resources
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmMeeting.resources
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmRegister.resources
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmVenu.resources
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.Resources.resources
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.vbproj.GenerateResource.Cache
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmSplash.resources
+E:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\bin\Debug\prjMeetingMaker.exe.config
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\prjMeetingMaker.frmSplash.resources
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\bin\Debug\Meeting Maker.exe.config
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\bin\Debug\Meeting Maker.exe.manifest
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\bin\Debug\Meeting Maker.application
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\bin\Debug\Meeting Maker.exe
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\bin\Debug\Meeting Maker.pdb
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\bin\Debug\Meeting Maker.xml
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\Meeting Maker.exe.manifest
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\Meeting Maker.application
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\Meeting Maker.exe
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\Meeting Maker.xml
+D:\Work\Meeting Maker\prjMeetingMaker\prjMeetingMaker\obj\x86\Debug\Meeting Maker.pdb

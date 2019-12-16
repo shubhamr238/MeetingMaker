@@ -1,0 +1,43 @@
+------------------DATABASE MEETING MAKER---------------
+
+1. Executive_Details
+------------------------------
+CREATE TABLE Executive_Details(
+        ExecutiveID Integer NOT NULL PRIMARY KEY,
+        Name varchar(70) NOT NULL,
+        Rank varchar(30),
+        Email varchar(30) NOT NULL,
+        ContactNo Integer,
+        Address varchar(100)
+);
+
+2. Meeting
+---------------------------------
+CREATE TABLE Meeting(
+	MeetingNo integer NOT NULL PRIMARY KEY,
+	Meeting_Date date NOT NULL,
+	Meeting_Time time NOT NULL,
+	Venu varchar(100),
+	Duration time,
+	Purpose varchar(200)
+);
+
+3.Meeting_Map
+------------------------------------
+CREATE TABLE Meeting_Map(
+	ExecutiveID Integer,
+	MeetingNo integer,
+	CONSTRAINT FK_ExID FOREIGN KEY (ExecutiveID) REFERENCES Executive_Details(ExecutiveID),
+	CONSTRAINT FK_MnNo FOREIGN KEY (MeetingNo) REFERENCES Meeting(MeetingNo)
+);
+
+4.Executive_Diary
+--------------------------------------
+CREATE TABLE Executive_Diary(
+	ExecutiveID integer,
+	Working_Date date NOT NULL,
+	From time,
+	To time,
+	Details varchar(200),
+	CONSTRAINT FK_Diary_ExID FOREIGN KEY (ExecutiveID) REFERENCES Executive_Details(ExecutiveID),
+);
